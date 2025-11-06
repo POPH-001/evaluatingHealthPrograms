@@ -1,0 +1,69 @@
+/* Custom styles for the presentation */
+
+.callout {
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+}
+
+.callout-note {
+    border-left-color: #3b82f6;
+}
+
+.callout-tip {
+    border-left-color: #06b6d4;
+}
+
+.callout-important {
+    border-left-color: #8b5cf6;
+}
+
+.callout-warning {
+    border-left-color: #f59e0b;
+}
+
+/* Center text */
+.center {
+    text-align: center;
+}
+
+/* Fit text to container */
+.r-fit-text {
+    font-size: 3em !important;
+    text-align: center;
+}
+
+/* Smaller text for dense slides */
+.smaller ul {
+    font-size: 0.85em;
+}
+
+.smaller li {
+    margin-bottom: 0.3em;
+}
+
+/* Column spacing */
+.columns {
+    margin-top: 1rem;
+}
+
+/* Fragment styling */
+.fragment {
+    margin-top: 1.5rem;
+}
+
+/* Custom block styling */
+.reveal .callout-note.callout {
+    background-color: #eff6ff;
+}
+
+.reveal .callout-tip.callout {
+    background-color: #f0fdfa;
+}
+
+.reveal .callout-important.callout {
+    background-color: #faf5ff;
+}
+
+.reveal .callout-warning.callout {
+    background-color: #fffbeb;
+}

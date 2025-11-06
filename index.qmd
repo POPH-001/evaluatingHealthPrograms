@@ -1,0 +1,540 @@
+---
+title: "Evaluating Population Health Programs"
+subtitle: "A Framework for Assessment (chapter 8) <br> Eric Delmelle <br> November 5, 2025"
+format: revealjs
+---
+
+```{=html}
+<style>
+.circle {
+  background-color: #FFCCCB; /* Light red background */
+  border: 2px solid teal; /* Teal border */
+  border-radius: 50%; /* Makes the circle round */
+  color: teal; /* Teal text color */
+  width: 75px; /* Circle diameter */
+  height: 75px; /* Circle diameter */
+  display: inline-block;
+  text-align: center;
+  line-height: 75px; /* Match the height to center the text vertically */
+  vertical-align: middle; /* Aligns the circle vertically with adjacent text */
+  margin-right: 5px;
+}
+</style>
+```
+```{=html}
+<style>
+.highlight-box {
+  background-color: #FFEB3B;
+  padding: 15px;
+  border-radius: 8px;
+  border: 2px solid teal;
+  margin: 10px 0;
+}
+</style>
+```
+```{=html}
+<style>
+ul {
+  font-size: 90%;
+}
+
+ul ul {
+  font-size: 80%;
+}
+</style>
+```
+
+------------------------------------------------------------------------
+
+# [**Chapter Overview**]{style="color: blue;"}
+
+- Understanding how to **evaluate** public health programs is essential for improving population health
+- Key topics covered:
+  - What makes a program evaluable?
+  - Performance vs. Impact measurement
+  - Levels of certainty in evaluation
+  - Efficacy, effectiveness, and efficiency
+  - Economic appraisal methods
+- This presentation provides a framework for **systematic program assessment**
+
+------------------------------------------------------------------------
+
+# [**What is a Public Health Intervention?**]{style="color: teal;"}
+
+- **Planned, systematic action** designed to improve health outcomes
+- Focuses on **populations**, not just individuals
+- Targets **collective well-being** through coordinated efforts
+- Examples: Vaccination campaigns, smoking bans, nutrition programs
+
+::: {.highlight-box}
+**Key Concept:** Public health interventions improve the health of **entire populations**, not just individual patients!
+:::
+
+------------------------------------------------------------------------
+
+# [**Why Evaluate Public Health Programs?**]{style="color: teal;"}
+
+- **WHO Definition:** A systematic way of learning from experience to improve activities and planning
+- **Three Main Purposes:**
+  1. **Improve programs** – Identify what works and what doesn't
+  2. **Guide resource allocation** – Make evidence-based funding decisions
+  3. **Enable continuous improvement** – Create feedback loops for better management
+
+------------------------------------------------------------------------
+
+# [**The Evaluation Cycle**]{style="color: teal;"}
+
+```{mermaid}
+%%| fig-width: 6
+%%| fig-align: center
+graph LR
+    A[Plan] --> B[Do]
+    B --> C[Check]
+    C --> D[Adjust]
+    D --> A
+    style A fill:#87CEEB
+    style B fill:#98FB98
+    style C fill:#FFD700
+    style D fill:#FFA07A
+```
+
+- **Continuous cycle** of planning, implementation, evaluation, and adjustment
+- Each stage informs the next
+- Essential for **adaptive management**
+
+------------------------------------------------------------------------
+
+# [1]{.circle} [**Evaluability Assessment**]{style="color: pink;"}
+
+## [**Key Question: Can This Program Be Meaningfully Evaluated?**]{style="color: teal;"}
+
+- Before investing in evaluation, assess whether it's feasible and useful
+- Two major considerations:
+  - **Program Factors**
+  - **Practical Factors**
+
+------------------------------------------------------------------------
+
+## [1]{.circle} [**Program Factors**]{style="color: pink;"}
+
+- **Are goals clear and specific?**
+  - Vague goals make evaluation impossible
+  - Example: "Improve health" vs. "Reduce obesity by 10% in 3 years"
+
+- **Is the program theory plausible?**
+  - Does the logic model make sense?
+  - Are expected pathways from activities to outcomes reasonable?
+
+- **Who will use the evaluation results?**
+  - Without stakeholder buy-in, evaluation findings gather dust
+  - Identify decision-makers early
+
+------------------------------------------------------------------------
+
+## [1]{.circle} [**Practical Factors**]{style="color: pink;"}
+
+- **Time and Resources:**
+  - Do we have sufficient budget for quality evaluation?
+  - Is the timeline realistic for seeing results?
+
+- **Expertise and Buy-in:**
+  - Do we have skilled evaluators available?
+  - Are program staff committed to the evaluation?
+  - Will stakeholders accept findings, even if negative?
+
+::: {.highlight-box}
+**Warning:** Don't waste resources evaluating a program that's poorly designed or lacks stakeholder support!
+:::
+
+------------------------------------------------------------------------
+
+# [2]{.circle} [**Performance vs. Impact**]{style="color: pink;"}
+
+## [**What Should We Measure?**]{style="color: teal;"}
+
+- Two distinct types of indicators
+- Both are important but serve different purposes
+- Choice depends on evaluation goals and timeline
+
+------------------------------------------------------------------------
+
+## [2]{.circle} [**Performance Indicators**]{style="color: pink;"}
+
+**Focus: Program Operations and Process**
+
+- **Program delivery:**
+  - Number of activities conducted
+  - Coverage and reach achieved
+  - Quality of services provided
+
+- **Utilization:**
+  - Participation rates
+  - Dropout rates
+  - Service uptake
+
+- **Acceptability:**
+  - Satisfaction scores
+  - Community feedback
+  - Staff perceptions
+
+------------------------------------------------------------------------
+
+## [2]{.circle} [**Performance Indicators - Data Sources**]{style="color: pink;"}
+
+- **Program records:**
+  - Attendance sheets
+  - Service delivery logs
+  - Administrative data
+
+- **Participant surveys:**
+  - Satisfaction questionnaires
+  - Exit interviews
+  - Focus groups
+
+::: {.highlight-box}
+**Advantage:** Performance data is usually **easier and cheaper** to collect than impact data
+:::
+
+------------------------------------------------------------------------
+
+## [2]{.circle} [**Impact Indicators**]{style="color: pink;"}
+
+**Focus: Health Outcomes and Population Change**
+
+- **Health improvements:**
+  - Reduced disease prevalence
+  - Improved health behaviors
+  - Better clinical markers (e.g., blood pressure, cholesterol)
+
+- **Disease reduction:**
+  - Lower mortality rates
+  - Fewer hospitalizations
+  - Decreased emergency visits
+
+- **Broader impacts:**
+  - Economic development
+  - Educational attainment
+  - Quality of life
+
+------------------------------------------------------------------------
+
+## [2]{.circle} [**Impact Indicators - Data Sources**]{style="color: pink;"}
+
+- **Population health surveys:**
+  - Cross-sectional studies
+  - Longitudinal cohorts
+  - National health data
+
+- **Disease surveillance systems:**
+  - Disease registries
+  - Hospital records
+  - Vital statistics
+
+::: {.highlight-box}
+**Challenge:** Impact data is often **more expensive and time-consuming** to collect, and changes may take years to observe
+:::
+
+------------------------------------------------------------------------
+
+# [3]{.circle} [**Levels of Certainty**]{style="color: pink;"}
+
+## [**How Confident Can We Be About Program Impacts?**]{style="color: teal;"}
+
+- Three levels of evidence
+- Each requires different study designs and resources
+- Higher certainty = stronger causal claims
+
+------------------------------------------------------------------------
+
+## [3]{.circle} [**Level 1: Adequacy**]{style="color: pink;"}
+
+**Question: Did the program meet its objectives?**
+
+- **Method:** Compare results to predetermined targets
+- **Example:** "Our goal was to vaccinate 80% of children. We vaccinated 85%."
+
+::: {.highlight-box}
+**Limitation:** We know we met our goal, but we **don't know if the program caused the change** (could be due to other factors)
+:::
+
+------------------------------------------------------------------------
+
+## [3]{.circle} [**Level 2: Plausibility**]{style="color: pink;"}
+
+**Question: Is it likely the program caused the observed change?**
+
+- **Method:** Before/after comparison, possibly with comparison group
+- **Example:** "Child vaccination rates were 60% before our program and 85% after. Nearby counties without the program stayed at 62%."
+
+::: {.highlight-box}
+**Strength:** More convincing than adequacy alone
+**Limitation:** Still can't rule out all confounding factors
+:::
+
+------------------------------------------------------------------------
+
+## [3]{.circle} [**Level 3: Probability**]{style="color: pink;"}
+
+**Question: Can we be statistically confident the program caused the change?**
+
+- **Method:** Randomized Controlled Trials (RCTs) or quasi-experimental designs
+- **Example:** "Random assignment to program vs. control group shows vaccination rates increased by 25 percentage points (p<0.001)"
+
+::: {.highlight-box}
+**Gold Standard:** Provides strongest evidence for causality
+**Challenge:** Expensive, time-consuming, sometimes unethical or impractical
+:::
+
+------------------------------------------------------------------------
+
+# [4]{.circle} [**Key Evaluation Concepts**]{style="color: pink;"}
+
+## [**Three "E"s: Efficacy, Effectiveness, Efficiency**]{style="color: teal;"}
+
+- Understanding these distinctions is crucial for program planning and evaluation
+- Each answers a different question
+- All three are important for comprehensive assessment
+
+------------------------------------------------------------------------
+
+## [4]{.circle} [**Efficacy**]{style="color: pink;"}
+
+**Can it work under ideal conditions?**
+
+- Tested in **controlled settings**
+- Optimal conditions with **maximum resources**
+- High compliance and adherence
+- **Example:** Clinical trials showing oral contraceptives are 99% effective when taken perfectly
+
+::: {.highlight-box}
+**Key Point:** Efficacy establishes **potential** – whether something CAN work
+:::
+
+------------------------------------------------------------------------
+
+## [4]{.circle} [**Effectiveness**]{style="color: pink;"}
+
+**Does it work in the real world?**
+
+- Tested in **routine conditions**
+- Typical implementation with **real-world constraints**
+- Variable compliance and adherence
+- **Example:** Real-world studies showing oral contraceptives are ~91% effective with typical use
+
+::: {.highlight-box}
+**Key Point:** Effectiveness shows **actual performance** – whether something DOES work in practice
+:::
+
+------------------------------------------------------------------------
+
+## [4]{.circle} [**Effectiveness vs. Efficacy Gap**]{style="color: pink;"}
+
+**Why the gap exists:**
+
+- Implementation challenges
+- Resource constraints
+- Human behavior variability
+- Contextual factors
+
+**Example: Oral Contraceptives**
+- **Efficacy:** 99% (perfect use)
+- **Effectiveness:** 91% (typical use)
+- **Gap:** 8 percentage points due to missed doses, timing errors
+
+------------------------------------------------------------------------
+
+## [4]{.circle} [**Efficiency**]{style="color: pink;"}
+
+**Are we getting good value for our resources?**
+
+- **Resources used vs. results achieved**
+- Economic dimension of evaluation
+- **Example:** Program A costs $10,000 per life saved vs. Program B costs $50,000 per life saved
+
+::: {.highlight-box}
+**Key Point:** Efficiency helps us **compare alternatives** and make resource allocation decisions
+:::
+
+------------------------------------------------------------------------
+
+# [5]{.circle} [**Case Example 1: Smoking Bans**]{style="color: teal;"}
+
+**How would we evaluate a workplace smoking ban?**
+
+------------------------------------------------------------------------
+
+## [5]{.circle} [**Smoking Ban: Performance Measures**]{style="color: teal;"}
+
+- **Implementation metrics:**
+  - % of workplaces implementing the ban
+  - Signage and policy visibility
+  - Enforcement activities
+
+- **Process measures:**
+  - Indoor air quality improvements (PM2.5 levels)
+  - Compliance rates
+  - Employee awareness levels
+
+------------------------------------------------------------------------
+
+## [5]{.circle} [**Smoking Ban: Impact Measures**]{style="color: teal;"}
+
+- **Health outcomes:**
+  - Reduced secondhand smoke exposure
+  - Decreased respiratory symptoms among non-smokers
+  - Changes in smoking prevalence
+
+- **Behavioral changes:**
+  - Number of quit attempts
+  - Smoking cessation rates
+  - Changes in smoking location patterns
+
+------------------------------------------------------------------------
+
+# [5]{.circle} [**Case Example 2: Condom Use Programs**]{style="color: teal;"}
+
+**How would we evaluate STI prevention through condom promotion?**
+
+------------------------------------------------------------------------
+
+## [5]{.circle} [**Condom Program: Performance Measures**]{style="color: teal;"}
+
+- **Distribution metrics:**
+  - Number of condoms distributed
+  - Reach of distribution sites
+  - Accessibility scores
+
+- **Knowledge and attitudes:**
+  - Awareness of proper use
+  - Attitudes toward condom use
+  - Self-reported intention to use
+
+------------------------------------------------------------------------
+
+## [5]{.circle} [**Condom Program: Impact Measures**]{style="color: teal;"}
+
+- **Health outcomes:**
+  - STI incidence rates
+  - HIV infection rates
+  - Unintended pregnancy rates
+
+- **Behavioral outcomes:**
+  - Actual condom use (not just intention)
+  - Consistent use rates
+  - Partner communication about protection
+
+------------------------------------------------------------------------
+
+# [6]{.circle} [**Economic Appraisal**]{style="color: pink;"}
+
+## [**Why Economic Evaluation Matters**]{style="color: teal;"}
+
+- **Scarcity:** Public health budgets are finite
+- **Opportunity cost:** Choosing one program means not funding another
+- **Accountability:** Stakeholders demand evidence of value
+- **Purpose:** Compare costs and outcomes of different interventions
+
+------------------------------------------------------------------------
+
+## [6]{.circle} [**Cost-Effectiveness Analysis (CEA)**]{style="color: pink;"}
+
+**Costs in money, outcomes in natural units**
+
+- **Formula:** Cost per outcome (e.g., cost per life saved, cost per case prevented)
+- **Example:** "$50,000 per case of diabetes prevented"
+- **Advantage:** Easy to interpret for specific outcomes
+- **Limitation:** Can't compare across different health outcomes
+
+------------------------------------------------------------------------
+
+## [6]{.circle} [**Cost-Benefit Analysis (CBA)**]{style="color: pink;"}
+
+**Everything valued in monetary terms**
+
+- **Formula:** Net benefit = Benefits ($) - Costs ($)
+- **Example:** "Smoking cessation program saves $3 in healthcare costs for every $1 invested"
+- **Advantage:** Can compare programs with different outcomes
+- **Limitation:** Difficult and controversial to assign monetary values to health/life
+
+------------------------------------------------------------------------
+
+## [6]{.circle} [**Cost-Utility Analysis (CUA)**]{style="color: pink;"}
+
+**Outcomes measured in QALYs**
+
+- **QALY = Quality-Adjusted Life Year**
+  - Combines length and quality of life
+  - 1 QALY = 1 year in perfect health
+  - 0 QALY = death
+
+- **Formula:** Cost per QALY gained
+- **Example:** "$25,000 per QALY" (often compared to threshold like $50,000-$100,000 per QALY)
+
+------------------------------------------------------------------------
+
+## [6]{.circle} [**Understanding QALYs**]{style="color: pink;"}
+
+**How QALYs work:**
+
+- Health state values range from 0 (death) to 1 (perfect health)
+- **Example calculations:**
+  - Living 5 years at quality 0.8 = 4 QALYs
+  - Living 10 years at quality 0.6 = 6 QALYs
+
+::: {.highlight-box}
+**Advantage:** QALYs allow comparison across different diseases and interventions (e.g., cancer treatment vs. diabetes prevention)
+:::
+
+------------------------------------------------------------------------
+
+## [6]{.circle} [**Comparing the Three Approaches**]{style="color: pink;"}
+
+| Method | Costs | Outcomes | Best For |
+|--------|-------|----------|----------|
+| **CEA** | $ | Natural units | Single outcome |
+| **CBA** | $ | $ | Diverse outcomes |
+| **CUA** | $ | QALYs | Cross-disease comparison |
+
+------------------------------------------------------------------------
+
+# [**Evaluation Framework Summary**]{style="color: blue;"}
+
+**Five Key Questions:**
+
+1. **Is it evaluable?** (Evaluability assessment)
+2. **What should we measure?** (Performance vs. Impact)
+3. **How certain can we be?** (Adequacy, Plausibility, Probability)
+4. **Does it work?** (Efficacy, Effectiveness, Efficiency)
+5. **Is it worth the cost?** (CEA, CBA, CUA)
+
+------------------------------------------------------------------------
+
+# [**Practical Implications**]{style="color: teal;"}
+
+- **Start with evaluability assessment** before committing resources
+- **Use performance measures** for rapid feedback and program improvement
+- **Invest in impact evaluation** when decisions have major resource implications
+- **Match evaluation design** to available resources and decision needs
+- **Include economic evaluation** when comparing program alternatives
+
+------------------------------------------------------------------------
+
+# [**Critical Reflection**]{style="color: teal;"}
+
+::: {.highlight-box}
+**Discussion Questions:**
+
+1. How would you apply these evaluation concepts to a public health program you know about?
+
+2. What challenges might arise when trying to conduct a rigorous evaluation in your community?
+
+3. When is a less rigorous evaluation (adequacy or plausibility) preferable to an RCT?
+:::
+
+------------------------------------------------------------------------
+
+# [**Thank you!**]{style="color: teal;"}
+
+::: {.r-fit-text}
+Questions & Discussion
+:::
