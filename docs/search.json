@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "index.html#key-question-can-this-program-be-meaningfully-evaluated",
+    "href": "index.html#key-question-can-this-program-be-meaningfully-evaluated",
+    "title": "Evaluating Population Health Programs",
+    "section": "Key Question: Can This Program Be Meaningfully Evaluated?",
+    "text": "Key Question: Can This Program Be Meaningfully Evaluated?\n\nBefore investing in evaluation, assess whether it’s feasible and useful\nTwo major considerations:\n\nProgram Factors\nPractical Factors"
+  },
+  {
+    "objectID": "index.html#program-factors",
+    "href": "index.html#program-factors",
+    "title": "Evaluating Population Health Programs",
+    "section": "1 Program Factors",
+    "text": "1 Program Factors\n\nAre goals clear and specific?\n\nVague goals make evaluation impossible\nExample: “Improve health” vs. “Reduce obesity by 10% in 3 years”\n\nIs the program theory plausible?\n\nDoes the logic model make sense?\nAre expected pathways from activities to outcomes reasonable?\n\nWho will use the evaluation results?\n\nWithout stakeholder buy-in, evaluation findings gather dust\nIdentify decision-makers early"
+  },
+  {
+    "objectID": "index.html#practical-factors",
+    "href": "index.html#practical-factors",
+    "title": "Evaluating Population Health Programs",
+    "section": "1 Practical Factors",
+    "text": "1 Practical Factors\n\nTime and Resources:\n\nDo we have sufficient budget for quality evaluation?\nIs the timeline realistic for seeing results?\n\nExpertise and Buy-in:\n\nDo we have skilled evaluators available?\nAre program staff committed to the evaluation?\nWill stakeholders accept findings, even if negative?\n\n\n\nWarning: Don’t waste resources evaluating a program that’s poorly designed or lacks stakeholder support!"
+  },
+  {
+    "objectID": "index.html#what-should-we-measure",
+    "href": "index.html#what-should-we-measure",
+    "title": "Evaluating Population Health Programs",
+    "section": "What Should We Measure?",
+    "text": "What Should We Measure?\n\nTwo distinct types of indicators\nBoth are important but serve different purposes\nChoice depends on evaluation goals and timeline"
+  },
+  {
+    "objectID": "index.html#performance-indicators",
+    "href": "index.html#performance-indicators",
+    "title": "Evaluating Population Health Programs",
+    "section": "2 Performance Indicators",
+    "text": "2 Performance Indicators\nFocus: Program Operations and Process\n\nProgram delivery:\n\nNumber of activities conducted\nCoverage and reach achieved\nQuality of services provided\n\nUtilization:\n\nParticipation rates\nDropout rates\nService uptake\n\nAcceptability:\n\nSatisfaction scores\nCommunity feedback\nStaff perceptions"
+  },
+  {
+    "objectID": "index.html#performance-indicators---data-sources",
+    "href": "index.html#performance-indicators---data-sources",
+    "title": "Evaluating Population Health Programs",
+    "section": "2 Performance Indicators - Data Sources",
+    "text": "2 Performance Indicators - Data Sources\n\nProgram records:\n\nAttendance sheets\nService delivery logs\nAdministrative data\n\nParticipant surveys:\n\nSatisfaction questionnaires\nExit interviews\nFocus groups\n\n\n\nAdvantage: Performance data is usually easier and cheaper to collect than impact data"
+  },
+  {
+    "objectID": "index.html#impact-indicators",
+    "href": "index.html#impact-indicators",
+    "title": "Evaluating Population Health Programs",
+    "section": "2 Impact Indicators",
+    "text": "2 Impact Indicators\nFocus: Health Outcomes and Population Change\n\nHealth improvements:\n\nReduced disease prevalence\nImproved health behaviors\nBetter clinical markers (e.g., blood pressure, cholesterol)\n\nDisease reduction:\n\nLower mortality rates\nFewer hospitalizations\nDecreased emergency visits\n\nBroader impacts:\n\nEconomic development\nEducational attainment\nQuality of life"
+  },
+  {
+    "objectID": "index.html#impact-indicators---data-sources",
+    "href": "index.html#impact-indicators---data-sources",
+    "title": "Evaluating Population Health Programs",
+    "section": "2 Impact Indicators - Data Sources",
+    "text": "2 Impact Indicators - Data Sources\n\nPopulation health surveys:\n\nCross-sectional studies\nLongitudinal cohorts\nNational health data\n\nDisease surveillance systems:\n\nDisease registries\nHospital records\nVital statistics\n\n\n\nChallenge: Impact data is often more expensive and time-consuming to collect, and changes may take years to observe"
+  },
+  {
+    "objectID": "index.html#how-confident-can-we-be-about-program-impacts",
+    "href": "index.html#how-confident-can-we-be-about-program-impacts",
+    "title": "Evaluating Population Health Programs",
+    "section": "How Confident Can We Be About Program Impacts?",
+    "text": "How Confident Can We Be About Program Impacts?\n\nThree levels of evidence\nEach requires different study designs and resources\nHigher certainty = stronger causal claims"
+  },
+  {
+    "objectID": "index.html#level-1-adequacy",
+    "href": "index.html#level-1-adequacy",
+    "title": "Evaluating Population Health Programs",
+    "section": "3 Level 1: Adequacy",
+    "text": "3 Level 1: Adequacy\nQuestion: Did the program meet its objectives?\n\nMethod: Compare results to predetermined targets\nExample: “Our goal was to vaccinate 80% of children. We vaccinated 85%.”\n\n\nLimitation: We know we met our goal, but we don’t know if the program caused the change (could be due to other factors)"
+  },
+  {
+    "objectID": "index.html#level-2-plausibility",
+    "href": "index.html#level-2-plausibility",
+    "title": "Evaluating Population Health Programs",
+    "section": "3 Level 2: Plausibility",
+    "text": "3 Level 2: Plausibility\nQuestion: Is it likely the program caused the observed change?\n\nMethod: Before/after comparison, possibly with comparison group\nExample: “Child vaccination rates were 60% before our program and 85% after. Nearby counties without the program stayed at 62%.”\n\n\nStrength: More convincing than adequacy alone Limitation: Still can’t rule out all confounding factors"
+  },
+  {
+    "objectID": "index.html#level-3-probability",
+    "href": "index.html#level-3-probability",
+    "title": "Evaluating Population Health Programs",
+    "section": "3 Level 3: Probability",
+    "text": "3 Level 3: Probability\nQuestion: Can we be statistically confident the program caused the change?\n\nMethod: Randomized Controlled Trials (RCTs) or quasi-experimental designs\nExample: “Random assignment to program vs. control group shows vaccination rates increased by 25 percentage points (p&lt;0.001)”\n\n\nGold Standard: Provides strongest evidence for causality Challenge: Expensive, time-consuming, sometimes unethical or impractical"
+  },
+  {
+    "objectID": "index.html#three-es-efficacy-effectiveness-efficiency",
+    "href": "index.html#three-es-efficacy-effectiveness-efficiency",
+    "title": "Evaluating Population Health Programs",
+    "section": "Three “E”s: Efficacy, Effectiveness, Efficiency",
+    "text": "Three “E”s: Efficacy, Effectiveness, Efficiency\n\nUnderstanding these distinctions is crucial for program planning and evaluation\nEach answers a different question\nAll three are important for comprehensive assessment"
+  },
+  {
+    "objectID": "index.html#efficacy",
+    "href": "index.html#efficacy",
+    "title": "Evaluating Population Health Programs",
+    "section": "4 Efficacy",
+    "text": "4 Efficacy\nCan it work under ideal conditions?\n\nTested in controlled settings\nOptimal conditions with maximum resources\nHigh compliance and adherence\nExample: Clinical trials showing oral contraceptives are 99% effective when taken perfectly\n\n\nKey Point: Efficacy establishes potential – whether something CAN work"
+  },
+  {
+    "objectID": "index.html#effectiveness",
+    "href": "index.html#effectiveness",
+    "title": "Evaluating Population Health Programs",
+    "section": "4 Effectiveness",
+    "text": "4 Effectiveness\nDoes it work in the real world?\n\nTested in routine conditions\nTypical implementation with real-world constraints\nVariable compliance and adherence\nExample: Real-world studies showing oral contraceptives are ~91% effective with typical use\n\n\nKey Point: Effectiveness shows actual performance – whether something DOES work in practice"
+  },
+  {
+    "objectID": "index.html#effectiveness-vs.-efficacy-gap",
+    "href": "index.html#effectiveness-vs.-efficacy-gap",
+    "title": "Evaluating Population Health Programs",
+    "section": "4 Effectiveness vs. Efficacy Gap",
+    "text": "4 Effectiveness vs. Efficacy Gap\nWhy the gap exists:\n\nImplementation challenges\nResource constraints\nHuman behavior variability\nContextual factors\n\nExample: Oral Contraceptives - Efficacy: 99% (perfect use) - Effectiveness: 91% (typical use) - Gap: 8 percentage points due to missed doses, timing errors"
+  },
+  {
+    "objectID": "index.html#efficiency",
+    "href": "index.html#efficiency",
+    "title": "Evaluating Population Health Programs",
+    "section": "4 Efficiency",
+    "text": "4 Efficiency\nAre we getting good value for our resources?\n\nResources used vs. results achieved\nEconomic dimension of evaluation\nExample: Program A costs $10,000 per life saved vs. Program B costs $50,000 per life saved\n\n\nKey Point: Efficiency helps us compare alternatives and make resource allocation decisions"
+  },
+  {
+    "objectID": "index.html#smoking-ban-performance-measures",
+    "href": "index.html#smoking-ban-performance-measures",
+    "title": "Evaluating Population Health Programs",
+    "section": "5 Smoking Ban: Performance Measures",
+    "text": "5 Smoking Ban: Performance Measures\n\nImplementation metrics:\n\n% of workplaces implementing the ban\nSignage and policy visibility\nEnforcement activities\n\nProcess measures:\n\nIndoor air quality improvements (PM2.5 levels)\nCompliance rates\nEmployee awareness levels"
+  },
+  {
+    "objectID": "index.html#smoking-ban-impact-measures",
+    "href": "index.html#smoking-ban-impact-measures",
+    "title": "Evaluating Population Health Programs",
+    "section": "5 Smoking Ban: Impact Measures",
+    "text": "5 Smoking Ban: Impact Measures\n\nHealth outcomes:\n\nReduced secondhand smoke exposure\nDecreased respiratory symptoms among non-smokers\nChanges in smoking prevalence\n\nBehavioral changes:\n\nNumber of quit attempts\nSmoking cessation rates\nChanges in smoking location patterns"
+  },
+  {
+    "objectID": "index.html#condom-program-performance-measures",
+    "href": "index.html#condom-program-performance-measures",
+    "title": "Evaluating Population Health Programs",
+    "section": "5 Condom Program: Performance Measures",
+    "text": "5 Condom Program: Performance Measures\n\nDistribution metrics:\n\nNumber of condoms distributed\nReach of distribution sites\nAccessibility scores\n\nKnowledge and attitudes:\n\nAwareness of proper use\nAttitudes toward condom use\nSelf-reported intention to use"
+  },
+  {
+    "objectID": "index.html#condom-program-impact-measures",
+    "href": "index.html#condom-program-impact-measures",
+    "title": "Evaluating Population Health Programs",
+    "section": "5 Condom Program: Impact Measures",
+    "text": "5 Condom Program: Impact Measures\n\nHealth outcomes:\n\nSTI incidence rates\nHIV infection rates\nUnintended pregnancy rates\n\nBehavioral outcomes:\n\nActual condom use (not just intention)\nConsistent use rates\nPartner communication about protection"
+  },
+  {
+    "objectID": "index.html#why-economic-evaluation-matters",
+    "href": "index.html#why-economic-evaluation-matters",
+    "title": "Evaluating Population Health Programs",
+    "section": "Why Economic Evaluation Matters",
+    "text": "Why Economic Evaluation Matters\n\nScarcity: Public health budgets are finite\nOpportunity cost: Choosing one program means not funding another\nAccountability: Stakeholders demand evidence of value\nPurpose: Compare costs and outcomes of different interventions"
+  },
+  {
+    "objectID": "index.html#cost-effectiveness-analysis-cea",
+    "href": "index.html#cost-effectiveness-analysis-cea",
+    "title": "Evaluating Population Health Programs",
+    "section": "6 Cost-Effectiveness Analysis (CEA)",
+    "text": "6 Cost-Effectiveness Analysis (CEA)\nCosts in money, outcomes in natural units\n\nFormula: Cost per outcome (e.g., cost per life saved, cost per case prevented)\nExample: “$50,000 per case of diabetes prevented”\nAdvantage: Easy to interpret for specific outcomes\nLimitation: Can’t compare across different health outcomes"
+  },
+  {
+    "objectID": "index.html#cost-benefit-analysis-cba",
+    "href": "index.html#cost-benefit-analysis-cba",
+    "title": "Evaluating Population Health Programs",
+    "section": "6 Cost-Benefit Analysis (CBA)",
+    "text": "6 Cost-Benefit Analysis (CBA)\nEverything valued in monetary terms\n\nFormula: Net benefit = Benefits (\\() - Costs (\\))\nExample: “Smoking cessation program saves $3 in healthcare costs for every $1 invested”\nAdvantage: Can compare programs with different outcomes\nLimitation: Difficult and controversial to assign monetary values to health/life"
+  },
+  {
+    "objectID": "index.html#cost-utility-analysis-cua",
+    "href": "index.html#cost-utility-analysis-cua",
+    "title": "Evaluating Population Health Programs",
+    "section": "6 Cost-Utility Analysis (CUA)",
+    "text": "6 Cost-Utility Analysis (CUA)\nOutcomes measured in QALYs\n\nQALY = Quality-Adjusted Life Year\n\nCombines length and quality of life\n1 QALY = 1 year in perfect health\n0 QALY = death\n\nFormula: Cost per QALY gained\nExample: “$25,000 per QALY” (often compared to threshold like $50,000-$100,000 per QALY)"
+  },
+  {
+    "objectID": "index.html#understanding-qalys",
+    "href": "index.html#understanding-qalys",
+    "title": "Evaluating Population Health Programs",
+    "section": "6 Understanding QALYs",
+    "text": "6 Understanding QALYs\nHow QALYs work:\n\nHealth state values range from 0 (death) to 1 (perfect health)\nExample calculations:\n\nLiving 5 years at quality 0.8 = 4 QALYs\nLiving 10 years at quality 0.6 = 6 QALYs\n\n\n\nAdvantage: QALYs allow comparison across different diseases and interventions (e.g., cancer treatment vs. diabetes prevention)"
+  },
+  {
+    "objectID": "index.html#comparing-the-three-approaches",
+    "href": "index.html#comparing-the-three-approaches",
+    "title": "Evaluating Population Health Programs",
+    "section": "6 Comparing the Three Approaches",
+    "text": "6 Comparing the Three Approaches\n\n\n\nMethod\nCosts\nOutcomes\nBest For\n\n\n\n\nCEA\n$\nNatural units\nSingle outcome\n\n\nCBA\n$\n$\nDiverse outcomes\n\n\nCUA\n$\nQALYs\nCross-disease comparison"
+  }
+]

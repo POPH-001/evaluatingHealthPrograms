@@ -1,6 +1,6 @@
 ---
 title: "Evaluating Population Health Programs"
-subtitle: "A Framework for Assessment (chapter 8) <br> Eric Delmelle <br> November 5, 2025"
+subtitle: "A Framework for Assessment"
 format: revealjs
 ---
 
